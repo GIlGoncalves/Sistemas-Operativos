@@ -1,0 +1,5 @@
+typedef struct listaligada {
+    char *nomeDiguest;
+    struct listaligada *prox;
+} *ListaLigada;
+
